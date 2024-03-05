@@ -1,0 +1,10 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+cout<<"My name is Sohail Maqsood";
+cout<<"My Roll No is 14"<<endl;
+
+
+return 0;
+}
