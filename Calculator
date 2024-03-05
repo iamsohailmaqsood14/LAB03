@@ -5,6 +5,7 @@ int main()
 cout<<"My name is Sohail Maqsood";
 cout<<"My Roll No is 14"<<endl;
 cout<<"Sum of two numbers are"<<a+b;
+cout<<"Subtraction of two numbers are"<<a-b;
 
 
 return 0;
