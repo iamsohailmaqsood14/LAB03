@@ -7,6 +7,7 @@ cout<<"My Roll No is 14"<<endl;
 cout<<"Sum of two numbers are"<<a+b;
 cout<<"Subtraction of two numbers are"<<a-b;
 cout<<"Multiplication of two numbers are"<<a*b;
+cout<<"Division of two numbers are"<<a/b; 
 
 
 return 0;
